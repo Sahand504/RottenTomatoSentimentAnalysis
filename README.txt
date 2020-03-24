@@ -3,3 +3,5 @@ as it was written on google colab
 
 Trained model is saved on code directory
 It is tested!
+
+GitHub Link: https://github.com/Sahand504/RottenTomatoSentimentAnalysis
